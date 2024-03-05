@@ -1,2 +1,2 @@
 # jupyter
-my jupyter. used for some codes
+# 我的文档,用来做自己的一些测试和验证等
